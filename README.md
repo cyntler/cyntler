@@ -1,5 +1,1 @@
-## Hello!
-
-I am interested in programming from the age of 12.<br>
-It quickly became my passion.<br>
-In my work I like most that I create something for others.
+My adventure with programming started when I was 12 years old. From the very beginning I felt that this was a very inspiring activity and it quickly became my passion. I love creating and exploring. I approach the subject very carefully. Order and consistency, cleanliness of the code is very important to me. The most motivating thing for me in this job is that I, as a creator, can create something for others. 
